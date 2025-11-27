@@ -7,7 +7,7 @@ export const recipes = [
         id: 1,
         name: "Tortilla de Patata",
         ingredients: ["Huevos", "Patatas", "Cebolla", "Aceite"],
-        image: "/images/tortilla.png",
+        image: "/NeveraChef/images/tortilla.png",
         time: "30 min",
         difficulty: "Media"
     },
@@ -15,7 +15,7 @@ export const recipes = [
         id: 2,
         name: "Arroz a la Cubana",
         ingredients: ["Arroz", "Huevos", "Tomate", "Ajo", "Aceite"],
-        image: "/images/arroz.png",
+        image: "/NeveraChef/images/arroz.png",
         time: "20 min",
         difficulty: "Fácil"
     },
@@ -23,7 +23,7 @@ export const recipes = [
         id: 3,
         name: "Huevos Rotos con Jamón",
         ingredients: ["Huevos", "Patatas", "Aceite", "Carne"], // Using 'Carne' as generic for Jamón/Meat
-        image: "/images/huevos-rotos.png",
+        image: "/NeveraChef/images/huevos-rotos.png",
         time: "25 min",
         difficulty: "Fácil"
     },
@@ -31,7 +31,7 @@ export const recipes = [
         id: 4,
         name: "Estofado de Carne",
         ingredients: ["Carne", "Patatas", "Zanahoria", "Cebolla", "Ajo", "Tomate"],
-        image: "/images/estofado.png",
+        image: "/NeveraChef/images/estofado.png",
         time: "90 min",
         difficulty: "Difícil"
     },
@@ -39,7 +39,7 @@ export const recipes = [
         id: 5,
         name: "Pollo al Ajillo",
         ingredients: ["Pollo", "Ajo", "Aceite", "Perejil"],
-        image: "/images/pollo.png",
+        image: "/NeveraChef/images/pollo.png",
         time: "45 min",
         difficulty: "Media"
     },
@@ -47,7 +47,7 @@ export const recipes = [
         id: 6,
         name: "Pan Tumaca",
         ingredients: ["Pan", "Tomate", "Ajo", "Aceite"],
-        image: "/images/pan-tumaca.png",
+        image: "/NeveraChef/images/pan-tumaca.png",
         time: "5 min",
         difficulty: "Muy Fácil"
     }
